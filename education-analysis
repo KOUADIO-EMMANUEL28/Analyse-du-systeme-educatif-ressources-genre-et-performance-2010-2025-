@@ -1,0 +1,12 @@
+education-analysis/
+│
+├── data/
+│   └── dataset.csv
+│
+├── visuals/
+│   └── graph1.png
+│
+├── dashboard/
+│   └── projet.pbix
+│
+└── README.md
