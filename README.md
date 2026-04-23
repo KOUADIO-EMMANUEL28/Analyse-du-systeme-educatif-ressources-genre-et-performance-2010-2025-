@@ -24,6 +24,18 @@
 
 Ce projet analyse l’évolution du système éducatif sur une période de 15 ans à travers une approche descriptive basée sur la data visualisation. Il met en évidence les dynamiques liées aux ressources éducatives, notamment les enseignants, les infrastructures et la capacité d’accueil. Une attention particulière est portée à la scolarisation des filles afin d’évaluer les progrès en matière d’équité de genre. L’étude examine également la performance scolaire à travers des indicateurs comme le taux de redoublement. Elle permet ainsi d’identifier les principales tendances et contraintes du système éducatif. Enfin, ce travail constitue une base pour des analyses économétriques.
 
+##### Bon à savoir
+
+Cette étude porte sur l’enseignement primaire sur la période 2010–2025 et permet d’analyser les principales tendances du système éducatif.
+
+Les résultats sont issus d’une approche descriptive et ne permettent pas d’établir des liens de causalité.
+
+Les indicateurs étudiés sont influencés par les politiques éducatives et le contexte socio-économique.
+
+Les analyses comparent les secteurs public, privé et communautaire afin de mettre en évidence les disparités structurelles.
+
+Les évolutions observées peuvent être affectées par des chocs ou réformes intervenus sur la période.
+
 ### Sources des données
 
 Le dataset utilisé regroupe des données éducatives couvrant plusieurs années, incluant notamment :
