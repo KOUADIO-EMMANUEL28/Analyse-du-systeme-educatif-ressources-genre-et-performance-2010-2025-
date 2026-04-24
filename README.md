@@ -1,4 +1,4 @@
-# Analyse-du-systeme-educatif-ressources-genre-et-performance-2010-2025-
+# Analyse du systeme educatif ivoirien: ressources ,genre et performance (2010-2025)
 
 ## Table des matières
 
